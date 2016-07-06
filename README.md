@@ -1,3 +1,6 @@
+The very start of an experimental feature
+(to be abandoned right away.)
+
 # [Bazel](http://bazel.io) ([Beta](http://bazel.io/roadmap.html#beta))
 
 *{Fast, Correct} - Choose two*
